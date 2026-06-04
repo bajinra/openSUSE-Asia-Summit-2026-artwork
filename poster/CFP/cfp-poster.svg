@@ -1269,11 +1269,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.3129683"
-     inkscape:cx="1661.5006"
-     inkscape:cy="157.63316"
+     inkscape:zoom="0.33206052"
+     inkscape:cx="999.81775"
+     inkscape:cy="667.04708"
      inkscape:document-units="mm"
-     inkscape:current-layer="cfp-ID"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-page="true"
      inkscape:pagecheckerboard="true"
@@ -1318,7 +1318,10 @@
     <g
        id="cfp-EN"
        inkscape:label="#g13977"
-       transform="translate(0,-0.52916667)">
+       transform="translate(0,-0.52916667)"
+       inkscape:export-filename="cfp-EN.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g10474"
          inkscape:export-filename="cfp-EN.png"
@@ -2265,9 +2268,9 @@
                id="flowPara10206"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6667px;line-height:26.25px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Medium'">• Notification to speakers:  July 21, 2026</flowPara><flowPara
                id="flowPara10208"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6667px;line-height:26.25px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Medium'">• openSUSE.Asia Summit 2026: October 3rd and 4th, 2026</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6667px;line-height:26.25px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Medium'">• Speakers TSP deadline: July 31, 2026</flowPara><flowPara
                id="flowPara2"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6667px;line-height:26.25px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Medium'">• Speakers TSP deadline will be announced later.</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6667px;line-height:26.25px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Medium'">• openSUSE.Asia Summit 2026: October 3rd and 4th, 2026.</flowPara><flowPara
                id="flowPara10210"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6667px;line-height:26.25px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Medium'" /></flowRoot>
           <text
@@ -3477,9 +3480,9 @@
                id="flowPara14127"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6667px;line-height:26.25px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Medium'">• Pengumuman Proposal Diterima:  21 Juli 2026</flowPara><flowPara
                id="flowPara14131"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6667px;line-height:26.25px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Medium'">• openSUSE.Asia Summit 2026: 3--4 Oktober 2026</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6667px;line-height:26.25px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Medium'">• Tenggat pengajuan TSP pemateri: 31 Juli 2026</flowPara><flowPara
                id="flowPara3"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6667px;line-height:26.25px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Medium'">• Tenggat pengajuan TSP pemateri akan diumumkan kemudian. </flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6667px;line-height:26.25px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Medium'">• openSUSE.Asia Summit 2026: 3--4 Oktober 2026. </flowPara><flowPara
                id="flowPara4"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6667px;line-height:26.25px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Medium'" /></flowRoot>
           <text
